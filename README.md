@@ -1,17 +1,17 @@
 # Pornhub-Video-Downloader
-Pornhub视频下载Chrome插件
+Pornhub Downloader Chrome Extension
 
-通过向Pornhub视频页面注入JS获取视频接口信息，提取链接下载。
+Download video interface information by injecting JS into the Pornhub video page, and extract the link to download. xvideos video download is also supported since v2.0
 
-## 2021年2月18日 更新v2.0版本，现已支持Xvideos视频下载！
+## February 18, 2021 Update v2.0, now supports Xvideos video download!
 
-### 如果是Chrome (谷歌)浏览器，下载zip后解压加载
+## If you are using chromium (Chrome, Brave...) browser, download and unzip it to load it
 
-本地加载插件的方法：
+How to load plugins locally:
 
-url地址栏打开    chrome://extensions/
+Go to  chrome://extensions/
 ![image](./img/usage.png)
 
-### chrome内核的浏览器（例如360,360极速这类浏览器）
-下载crx后拖入浏览器即可。
+### If you are using Chrome core browser (such as 360, 360 speed browsers) (例如360,360极速这类浏览器)
+After downloading crx, drag it into the browser.
 
